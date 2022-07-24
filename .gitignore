@@ -1,7 +1,10 @@
 node_modules
 dist
 
-.yarn/**
-!.yarn/releases
+.yarn/cache
+.yarn/sdks
+.yarn/unplugged
+.yarn/install-state.gz
+
 cache
 .vscode
